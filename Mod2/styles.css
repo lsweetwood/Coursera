@@ -11,7 +11,7 @@ h1 {
 }
 
 div {
-    background-color: bisque;
+/*    background-color: bisque;*/
 }
 
 section {
@@ -23,7 +23,6 @@ section {
     margin: 5px;
     height: 200px;
     font-family: Helvetica;
-/*    clear: both;*/
 }
 
 
@@ -31,9 +30,6 @@ section {
 #p1 {
     background-color: deeppink;
     float:right;
-/*    position:relative;*/
-/*    top: 1;*/
-/*    right: 1;*/
     margin-right:5px;
     margin-top: 5px;
     height: 20px;
