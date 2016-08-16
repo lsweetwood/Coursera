@@ -1,0 +1,28 @@
+body {
+/*       padding-top:20px;*/
+   }
+.menu-header {
+    padding:0px 15px 15px;
+}
+.navbar-brand {
+    font-weight: bold; 
+}
+
+#nav-list {
+    background-color: #bce3f7;
+}
+#nav-list a span {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#menu-category-title {
+  background-color: #7ee3db;
+  text-align: center;
+}
+#menu-category-content{
+ height: 750px; 
+ background-color: #7ee3db;
+}
